@@ -44,9 +44,10 @@ Your first message to the group will be moderated; in other words, the moderator
 In _extremely_ rare occassions, the moderator may consult with you regarding whether your message fits the scope of the group (see Posting to the Group above) and how to make your message fit the scope better. This is very much intended to be a consultation. I have helped to administer this group since 2011, and to the best of my knowledge, no message has ever been outright rejected unless it appeared to be spam or malicious.
 
 ## Contact Information for the Moderator
-Do you have additional questions or concerns about the group? Please feel free to reach out to the moderator. The current moderator is:
+Do you have additional questions or concerns about the group? Please feel free to reach out to the moderator. The acting moderator is:
 
 K. James Soda
+
 Email: k.jamessoda@gmail.com
 
 On behalf of all Morphmet members, we look forward to having you and look forward to your first post.
