@@ -24,10 +24,12 @@ To post messages to the group, send an email to morphmet2@googlegroups.com.
 
 While formulating your messages, please keep the following points in mind:
 
-1) Morphmet is centered on morphometric research, so messages to the group should also center on research-related topics as well. Common topics for messages include:
+1) Morphmet is centered on morphometric research, so messages to the group should also center on research-related topics. Common topics for messages include:
+
      a) Announcements of new morphometric software, updates to existing morphometric software, and new morphometric publications.
      b) Questions about the theory and applications of geometric morphometrics, including questions related to software.
      c) Job and course announcements for morphometricians.
+     
    Morphmet predominantly focuses on geometric morphometric methods, but we also discuss traditional morphometrics (_i.e.,_ linear measurements) from time to time as well.
 
 2) Morphmet uses English as its _lingua franca_. __However, messages are never rejected based on the quality of the author's English, so please do not let language concerns deter you.__ So long as it is clear that the message is about morphometrics, then the message is suitable.
