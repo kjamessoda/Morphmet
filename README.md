@@ -1,4 +1,4 @@
-# __Morphmet Mailing List__
+# __Morphmet Mailing List and Forum__
 Welcome to Morphmet! Morphmet is one of the oldest and most trusted resources for practioners of geometric morphometrics, the study of biological shape through Procrustes-based methodologies (_i.e.,_ the Procrustes paradigm). Since it's creation, Morphmet has had two major missions: 
 
 1) To facilitate communication between users and developers of geometric morphometric methods. 
@@ -7,7 +7,7 @@ Welcome to Morphmet! Morphmet is one of the oldest and most trusted resources fo
 We are happy that you are here.
 
 ## Subscribing to Morphmet
-__This page is not the mailing list__; it just describes Morphmet in a more accessible location. Morphmet is currently administered through Google Groups. You can find instruction on joining a Google Group at the following website: https://support.google.com/groups/answer/1067205?hl=en. Here are some things to keep in mind as you go through the process of joining:
+__This page is not the mailing list or forum__; it just describes Morphmet in a more accessible location. Morphmet is currently administered through Google Groups. You can find instruction on joining a Google Group at the following website: https://support.google.com/groups/answer/1067205?hl=en. Here are some things to keep in mind as you go through the process of joining:
 
 1) You will need a Google Account to find and join Morphmet. Instructions on creating a Google Account can be found at this website: https://support.google.com/accounts/answer/27441?hl=en
 
