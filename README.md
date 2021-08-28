@@ -36,7 +36,7 @@ While formulating your messages, please keep the following points in mind:
 
 2) Morphmet uses English as its _lingua franca_. __However, messages are never rejected based on the quality of the author's English, so please do not let language concerns deter you.__ So long as it is clear that the message is about morphometrics, then the message is suitable.
 
-3) We are all here because we are passionate about morphometrics, and sometimes our passion can cause conversation to become heated. Nonetheless, please consider the feelings of others when writing you messages and try to keep your messages professional and cordial. Morphmet needs to be a safe space for its users if it is going to be able to fulfill its mission. If you have concerns about any posted message or conversation, please reach to the moderator (see contact information below).
+3) We are all here because we are passionate about morphometrics, and sometimes our passion can cause conversation to become heated. Nonetheless, please consider the feelings of others when writing you messages and try to keep your messages professional and cordial. Morphmet needs to be a safe space for its users if it is going to be able to fulfill its mission. If you have concerns about any posted message or conversation, please reach out to the moderator (see Contact Information for the Moderator below).
 
 ## Your First Posting 
 Your first message to the group will be moderated; in other words, the moderator will need to approve it before distribution. This provides one last safeguard against malicious emails.
