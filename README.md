@@ -27,7 +27,9 @@ While formulating your messages, please keep the following points in mind:
 1) Morphmet is centered on morphometric research, so messages to the group should also center on research-related topics. Common topics for messages include:
 
      a) Announcements of new morphometric software, updates to existing morphometric software, and new morphometric publications.
+     
      b) Questions about the theory and applications of geometric morphometrics, including questions related to software.
+     
      c) Job and course announcements for morphometricians.
      
    Morphmet predominantly focuses on geometric morphometric methods, but we also discuss traditional morphometrics (_i.e.,_ linear measurements) from time to time as well.
