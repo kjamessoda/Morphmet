@@ -17,7 +17,7 @@ __This page is not the mailing list or forum__; it just describes Morphmet in a 
 
 4) You may interact with Morphmet as either a mailing list (_i.e.,_ messages will be sent directly to your email inbox) or as a forum (_i.e.,_ you will access the group as a website and read messages there). You always have the option to use the group as a message board, but when you join, you are provided with options on how you would like to receive email notifications, if at all.
 
-Alternatively, you should also be able to join by email morphmet2+subscribe@googlegroups.com.
+Alternatively, you should also be able to join by emailing morphmet2+subscribe@googlegroups.com.
 
 ## Posting to the Group
 To post messages to the group, send an email to morphmet2@googlegroups.com. 
